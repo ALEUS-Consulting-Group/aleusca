@@ -1,3 +1,11 @@
+**CYBERSECURITY**
+ 
+# Injecting Chaos: A Threat Actor in the Wires
+ 
+*By Brennen Schmidt | December 14, 2024*
+ 
+---
+
 When your public statement on a crisis gets leaked before it's even sent, you realize the real crisis isn't just outside — it might be on the inside, too. How would your leadership team respond under this kind of pressure? What does your team do next when communications likely can't be trusted?
 
 Like a "ghost in the wires," a silent threat actor undermines your operations, striking your most important systems. Reports of [telecommunications breaches in late October 2024](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/) are a clarion call for organizations across sectors, especially given their potential to disrupt governance or erode public trust.
