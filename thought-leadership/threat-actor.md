@@ -1,3 +1,5 @@
+![Threat Actor in the Wires](https://raw.githubusercontent.com/ALEUS-Consulting-Group/aleusca/main/thought-leadership/images/hero-banner.jpeg)
+
 **CYBERSECURITY**
  
 # Injecting Chaos: A Threat Actor in the Wires
