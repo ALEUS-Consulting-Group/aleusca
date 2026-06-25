@@ -3,7 +3,7 @@
     "file": "threat-actor.md",
     "slug": "threat-actor",
     "tag": "CYBERSECURITY",
-    "image": "./images/hero-banner.jpeg",
+    "image": "https://raw.githubusercontent.com/ALEUS-Consulting-Group/aleusca/main/thought-leadership/images/threat-actor.jpeg",
     "imageAlt": "Threat Actor in the Wires"
   }
 ]
